@@ -9,17 +9,17 @@ The first step before implementing this system is to outline a minimum set of re
 
 The requirements outlined below are based on the comments raised in [#99](https://github.com/OpenSourceMalaria/OSM_To_Do_List/issues/99) and [#112](https://github.com/OpenSourceMalaria/OSM_To_Do_List/issues/112)
 
-- [ ] Visualisation (2D or 3D) of each structure
-- [ ] Informatics data (InChI at a bare minimum)
-- [ ] Potencies/other relevant biological data
-- [ ] Associated identication numbers (including OSM number)
-- [ ] Simple links to relevant documentation (blog posts, summaries)
-- [ ] Molecules must contain a status label (Synthesised, Under investigation etc.)
-- [ ] The ability to filter molecules based on properties (Series, status, alternate informatics data)
-- [ ] The ability to search molecules (by name, identifier)
-- [ ] Sorting(?) sort by name, identifier, potency (if available)
-- [ ] Integration with ChEMBL API(?) ability to retrieve more information, or at the very least links out
-- [ ] Indexable by search engines
+- [  ] Visualisation (2D or 3D) of each structure
+- [  ] Informatics data (InChI at a bare minimum)
+- [  ] Potencies/other relevant biological data
+- [  ] Associated identication numbers (including OSM number)
+- [  ] Simple links to relevant documentation (blog posts, summaries)
+- [  ] Molecules must contain a status label (Synthesised, Under investigation etc.)
+- [  ] The ability to filter molecules based on properties (Series, status, alternate informatics data)
+- [  ] The ability to search molecules (by name, identifier)
+- [  ] Sorting(?) sort by name, identifier, potency (if available)
+- [  ] Integration with ChEMBL API(?) ability to retrieve more information, or at the very least links out
+- [  ] Indexable by search engines
 
 Substructure searches and in depth analysis are probably out of scope at this stage for a minimum working project. These features should certainly be considered at a later date.
 
